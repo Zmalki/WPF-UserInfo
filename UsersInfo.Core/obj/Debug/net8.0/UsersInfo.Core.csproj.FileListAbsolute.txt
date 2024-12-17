@@ -1,0 +1,11 @@
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\bin\Debug\net8.0\UsersInfo.Core.deps.json
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\bin\Debug\net8.0\UsersInfo.Core.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\bin\Debug\net8.0\UsersInfo.Core.pdb
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.AssemblyInfoInputs.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.AssemblyInfo.cs
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.csproj.CoreCompileInputs.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\refint\UsersInfo.Core.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\UsersInfo.Core.pdb
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Core\obj\Debug\net8.0\ref\UsersInfo.Core.dll

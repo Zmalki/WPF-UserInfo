@@ -1,0 +1,17 @@
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Data.deps.json
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Data.runtimeconfig.json
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Data.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Data.pdb
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Core.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\bin\Debug\net8.0\UsersInfo.Core.pdb
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.csproj.AssemblyReference.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.AssemblyInfoInputs.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.AssemblyInfo.cs
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.csproj.CoreCompileInputs.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInf.D8B5C976.Up2Date
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\refint\UsersInfo.Data.dll
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.pdb
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\UsersInfo.Data.genruntimeconfig.cache
+C:\Users\zineddine\source\repos\UsersaInfo\UsersInfo.Data\obj\Debug\net8.0\ref\UsersInfo.Data.dll
